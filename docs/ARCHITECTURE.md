@@ -20,7 +20,7 @@
 
 ├── /examples           # 示例简历（关键！）
 
-│   ├── YOUR_RESUME.pdf # 你的脱敏简历（真实用例）
+│   ├── YOUR_RESUME.pdf # 脱敏简历（真实用例）
 
 │
 
